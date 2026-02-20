@@ -3,7 +3,8 @@ Tableau dashboard project based on Deloitte Data Analytics Virtual Experience (F
 
 ## 📊 Machine Downtime Analysis Dashboard
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshot%20(108).png)
+
 ## 🔹 Project Overview
 This project analyzes machine downtime across factories and device types using Tableau.
 
